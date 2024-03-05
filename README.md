@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">
+<div align="center">
   <img  height="200" width = "200" src="00154-3698129574.gif" />&nbsp;&nbsp;
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zedl3all&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />&nbsp;&nbsp;
   <img  height="200" width = "200" src="00154-3698129574.gif" />
-</p>
+</div>
 
 ###
 
