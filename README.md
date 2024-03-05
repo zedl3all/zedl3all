@@ -2,15 +2,21 @@
 
 ###
 
-<div align="center">
-  <img  height="200" width = "200" src="00154-3698129574.gif" />&nbsp;&nbsp;
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zedl3all&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />&nbsp;&nbsp;
-  <img  height="200" width = "200" src="00154-3698129574.gif" />
-</div>
+
+<img align="right" height="200" width = "200" src="00154-3698129574.gif" />
 
 ###
 
-<h3 align="center"  clear="both">My Skills</h3>
+<img align="left" height="200" width = "200" src="00154-3698129574.gif" />
+
+###
+
+<h3 align="center">ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h3>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zedl3all&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both">
 
 ###
 
