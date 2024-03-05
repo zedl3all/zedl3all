@@ -62,6 +62,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zedl3all/zedl3all/output/snake.svg" alt="Snake animation" />
-
 ###
