@@ -57,6 +57,7 @@
 <br clear="both">
 
 <div align="center">
+  <img src="junior-cybersecurity-analyst-career-path.1.png" alt="Junior Cybersecurity Analyst Career Path" height="200"  />
   <img src="https://github-profile-trophy.vercel.app?username=zedl3all&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zedl3all&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
